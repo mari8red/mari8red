@@ -5,3 +5,6 @@
 
 ## Contáctame
 A medida que continúo mi viaje en el Desarrollo, Diseño Web y el nuevo mundo de Java, estoy en busqueda de proyectos y oportunidades colaborativos en los que pueda contribuir con mis habilidades, creciendo y ganando experiencia tanto personal como profesionalmente. ¡Conectémonos y creemos algo increíble juntos!
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
