@@ -5,7 +5,3 @@
 
 ## Contáctame
 A medida que continúo mi viaje en el Desarrollo, Diseño Web y el nuevo mundo de Java, estoy en busqueda de proyectos y oportunidades colaborativos en los que pueda contribuir con mis habilidades, creciendo y ganando experiencia tanto personal como profesionalmente. ¡Conectémonos y creemos algo increíble juntos!
-
-## Technologies
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...(Basics)
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development... (I'm new)
